@@ -2,12 +2,13 @@
 This is everything I use in TF2 that isn't [my custom hud](https://github.com/Sizzyl/SizzylHUD) that I'm allowed to put here 
 (some mod creators don't allow people to redistribute their stuff and those mods will be listed further in the READMe).
 WARNING: if mod files are included in this repo, some of them might not be the most up-to-date versions of those mods. It will be what I use in my videos and in-game, but these mods are all updated individually.
+WARNING2: This is also not optimized for any system other than my own. It is likely better to pick and choose what mods/quality levels you'd like to use.
 
 # Mods/Files included in this repo
 - my own personal autoexec.cfg file (which you're allowed to tamper with in any way you see fit unlike any other file included in this repo)
+- [Mastercomm's Mastercomfig](https://comfig.app/app/)
 
 # Mods/Files with pending permission that I use
-- [Mastercomm's Mastercomfig](https://comfig.app/app/)
 - [Pilso's Modern Casual Preloader](https://gamebanana.com/wips/79779)
 - [Xilekai's Control Point Illumination Fix](https://gamebanana.com/mods/538185)
 - [Pilso's Classic-Style Animated Backgorunds Pack](https://gamebanana.com/wips/86687)
