@@ -1,14 +1,19 @@
 # SizzylTF2
 This is everything I use in TF2 that isn't [my custom hud](https://github.com/Sizzyl/SizzylHUD) that I'm allowed to put here 
-(some mod creators don't allow people to redistribute their stuff and those mods will be listed further in the READMe).
-WARNING: if mod files are included in this repo, some of them might not be the most up-to-date versions of those mods. It will be what I use in my videos and in-game, but these mods are all updated individually.
-WARNING2: This is also not optimized for any system other than my own. It is likely better to pick and choose what mods/quality levels you'd like to use.
+(some mod creators don't allow people to redistribute their stuff and those mods will be listed further down in the READMe).
 
-# Mods/Files included in this repo
+## WARNINGS
+1. Things might not work without the exact launch options I use.
+Here are my launch options (for 1080p display, if you have a different resolution, change the w and h values):
+```-novid -nojoy -nosteamcontroller -particles 1 -precachefontchars -windowed -noborder -w 1920 -h 1080 +exec preloader.cfg```
+2. Mods with files included in this repo might not have proper settings for your system OR be fully up to date. They are simply what I personally use.
+3. This is also not optimized for any system other than my own. It is likely better to pick and choose what mods/quality levels you'd like to use.
+
+## Mods/Files included in this repo
 - my own personal autoexec.cfg file (which you're allowed to tamper with in any way you see fit unlike any other file included in this repo)
 - [Mastercomm's Mastercomfig](https://comfig.app/app/)
 
-# Mods/Files with pending permission that I use
+## Mods/Files with pending permission that I use
 - [Pilso's Modern Casual Preloader](https://gamebanana.com/wips/79779)
 - [Xilekai's Control Point Illumination Fix](https://gamebanana.com/mods/538185)
 - [Pilso's Classic-Style Animated Backgorunds Pack](https://gamebanana.com/wips/86687)
@@ -25,5 +30,5 @@ WARNING2: This is also not optimized for any system other than my own. It is lik
 - [Kylul's Spy Animations](https://gamebanana.com/mods/307980)
 - [newguy111's Spy Reload Fix](https://gamebanana.com/mods/196596)
 
-# Mods/Files that I cannot include here
+## Mods/Files that I cannot include here
 - Pizza tower funky taunt noise sound effect as my killsound
