@@ -21,10 +21,10 @@ Here are my launch options (for 1080p display, if you have a different resolutio
 - [Kylul's Spy Animations](https://gamebanana.com/mods/307980)
 - [Kylul's Engineer Animations](https://gamebanana.com/mods/400704)
 - [Xilekai's Control Point Illumination Fix](https://gamebanana.com/mods/538185)
-
-## Mods/Files with pending permission that I use
 - [Pilso's Modern Casual Preloader](https://gamebanana.com/wips/79779)
 - [Pilso's Classic-Style Animated Backgorunds Pack](https://gamebanana.com/wips/86687)
+
+## Mods/Files with pending permission that I use
 - [SiFWolf's Better Kill Icons](https://gamebanana.com/mods/406361)
 - [Pistol Enhancement Pack](https://gamebanana.com/mods/523205)
 - [Paysus's Scout Animations + Lugermorph Fix](https://gamebanana.com/mods/522553)
