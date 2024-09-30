@@ -25,7 +25,6 @@ Here are my launch options (for 1080p display, if you have a different resolutio
 - [Pilso's Classic-Style Animated Backgrounds Pack](https://gamebanana.com/wips/86687)
 - [SiFWolf's Better Kill Icons](https://gamebanana.com/mods/406361)
 - [newguy111's Spy Reload Fix](https://gamebanana.com/mods/196596)
-- [SSheep's Sniper Arm Fix](https://gamebanana.com/mods/194629)
 - [90FOV Fix for Medic](https://gamebanana.com/mods/285109)
 
 ## Mods/Files with pending permission that I use
@@ -49,5 +48,4 @@ Here are my launch options (for 1080p display, if you have a different resolutio
 - Animated Backgrounds - https://web.archive.org/web/20240930063202/https://gamebanana.com/wips/86687
 - Better Kill Icons - https://web.archive.org/web/20240930063140/https://gamebanana.com/mods/406361
 - Spy Reload - https://web.archive.org/web/20240930062950/https://gamebanana.com/mods/196596
-- Sniper Arm - https://web.archive.org/web/20240930062900/https://gamebanana.com/mods/194629
 - 90FOV Medic - https://web.archive.org/web/20240930062455/https://gamebanana.com/mods/285109
