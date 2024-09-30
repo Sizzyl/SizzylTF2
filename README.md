@@ -5,7 +5,6 @@ WARNING: if mod files are included in this repo, some of them might not be the m
 
 # Mods/Files included in this repo
 - my own personal autoexec.cfg file (which you're allowed to tamper with in any way you see fit)
-- [my own custom HUD](https://github.com/Sizzyl/SizzylHUD)
 
 # Mods/Files with pending permission that I use
 - [Mastercomm's Mastercomfig](https://comfig.app/app/)
