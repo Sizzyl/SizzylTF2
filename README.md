@@ -25,6 +25,7 @@ Here are my launch options (for 1080p display, if you have a different resolutio
 - [Pilso's Classic-Style Animated Backgorunds Pack](https://gamebanana.com/wips/86687)
 - [SiFWolf's Better Kill Icons](https://gamebanana.com/mods/406361)
 - [newguy111's Spy Reload Fix](https://gamebanana.com/mods/196596)
+- [SSheep's Sniper Arm Fix](https://gamebanana.com/mods/194629)
 
 ## Mods/Files with pending permission that I use
 
@@ -32,7 +33,6 @@ Here are my launch options (for 1080p display, if you have a different resolutio
 - [Paysus's Scout Animations + Lugermorph Fix](https://gamebanana.com/mods/522553)
 - [Paysus's Heavy Animations](https://gamebanana.com/mods/206261)
 - [90FOV Fix for Medic](https://gamebanana.com/mods/285109)
-- [SSheep's Sniper Arm Fix](https://gamebanana.com/mods/194629)
 
 
 ## Mods/Files that I cannot include here
