@@ -15,6 +15,11 @@ Here are my launch options (for 1080p display, if you have a different resolutio
 ## Mods/Files included in this repo
 - my own personal autoexec.cfg file (which you're allowed to tamper with in any way you see fit unlike any other file included in this repo)
 - [Mastercomm's Mastercomfig](https://comfig.app/app/)
+- [Kylul's Soldier Animations](https://gamebanana.com/mods/206373)
+- [Kylul's Pyro Animations](https://gamebanana.com/mods/206311)
+- [Kylul's Demoman Animations](https://gamebanana.com/mods/373379)
+- [Kylul's Spy Animations](https://gamebanana.com/mods/307980)
+- [Kylul's Engineer Animations](https://gamebanana.com/mods/400704)
 
 ## Mods/Files with pending permission that I use
 - [Pilso's Modern Casual Preloader](https://gamebanana.com/wips/79779)
@@ -23,14 +28,9 @@ Here are my launch options (for 1080p display, if you have a different resolutio
 - [SiFWolf's Better Kill Icons](https://gamebanana.com/mods/406361)
 - [Pistol Enhancement Pack](https://gamebanana.com/mods/523205)
 - [Paysus's Scout Animations + Lugermorph Fix](https://gamebanana.com/mods/522553)
-- [Kylul's Soldier Animations](https://gamebanana.com/mods/206373)
-- [Kylul's Pyro Animations](https://gamebanana.com/mods/206311)
-- [Kylul's Demoman Animations](https://gamebanana.com/mods/373379)
 - [Paysus's Heavy Animations](https://gamebanana.com/mods/206261)
-- [Kylul's Engineer Animations](https://gamebanana.com/mods/400704)
 - [90FOV Fix for Medic](https://gamebanana.com/mods/285109)
 - [SSheep's Sniper Arm Fix](https://gamebanana.com/mods/194629)
-- [Kylul's Spy Animations](https://gamebanana.com/mods/307980)
 - [newguy111's Spy Reload Fix](https://gamebanana.com/mods/196596)
 
 ## Mods/Files that I cannot include here
