@@ -22,7 +22,7 @@ Here are my launch options (for 1080p display, if you have a different resolutio
 - [Kylul's Engineer Animations](https://gamebanana.com/mods/400704)
 - [Xilekai's Control Point Illumination Fix](https://gamebanana.com/mods/538185)
 - [Pilso's Modern Casual Preloader](https://gamebanana.com/wips/79779)
-- [Pilso's Classic-Style Animated Backgorunds Pack](https://gamebanana.com/wips/86687)
+- [Pilso's Classic-Style Animated Backgrounds Pack](https://gamebanana.com/wips/86687)
 - [SiFWolf's Better Kill Icons](https://gamebanana.com/mods/406361)
 - [newguy111's Spy Reload Fix](https://gamebanana.com/mods/196596)
 - [SSheep's Sniper Arm Fix](https://gamebanana.com/mods/194629)
@@ -36,3 +36,18 @@ Here are my launch options (for 1080p display, if you have a different resolutio
 
 ## Mods/Files that I cannot include here
 - Pizza tower funky taunt noise sound effect as my killsound
+
+### Wayback Machine backups of mod sites showing the licences I claimed:
+- Mastercomfig - https://web.archive.org/web/20240930064041/https://github.com/mastercomfig/comfig-app/blob/develop/LICENSE.md
+- Soldier Animations - https://web.archive.org/web/20240930064209/https://gamebanana.com/mods/206373
+- Pyro Animations - https://web.archive.org/web/20240930064218/https://gamebanana.com/mods/206311
+- Demoman Animations - https://web.archive.org/web/20240930063929/https://gamebanana.com/mods/373379
+- Spy Animations - https://web.archive.org/web/20240930063909/https://gamebanana.com/mods/307980
+- Engineer Animations - https://web.archive.org/web/20240930063919/https://gamebanana.com/mods/400704
+- Point Illumination Fix - https://web.archive.org/web/20240930063907/https://gamebanana.com/mods/538185
+- Modern Casual Preloader - https://web.archive.org/web/20240930063913/https://gamebanana.com/wips/79779
+- Animated Backgrounds - https://web.archive.org/web/20240930063202/https://gamebanana.com/wips/86687
+- Better Kill Icons - https://web.archive.org/web/20240930063140/https://gamebanana.com/mods/406361
+- Spy Reload - https://web.archive.org/web/20240930062950/https://gamebanana.com/mods/196596
+- Sniper Arm - https://web.archive.org/web/20240930062900/https://gamebanana.com/mods/194629
+- 90FOV Medic - https://web.archive.org/web/20240930062455/https://gamebanana.com/mods/285109
