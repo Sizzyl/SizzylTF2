@@ -7,8 +7,10 @@ This is everything I use in TF2 that isn't [my custom hud](https://github.com/Si
 Here are my launch options (for 1080p display, if you have a different resolution, change the w and h values):
 
 ```-novid -nojoy -nosteamcontroller -particles 1 -precachefontchars -windowed -noborder -w 1920 -h 1080 +exec preloader.cfg```
-3. Mods with files included in this repo might not have proper settings for your system OR be fully up to date. They are simply what I personally use.
-4. This is also not optimized for any system other than my own. It is likely better to pick and choose what mods/quality levels you'd like to use.
+
+2. Mods with files included in this repo might not have proper settings for your system OR be fully up to date. They are simply what I personally use.
+
+3. This is also not optimized for any system other than my own. It is likely better to pick and choose what mods/quality levels you'd like to use.
 
 ## Mods/Files included in this repo
 - my own personal autoexec.cfg file (which you're allowed to tamper with in any way you see fit unlike any other file included in this repo)
