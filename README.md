@@ -10,7 +10,7 @@ Here are my launch options (for 1080p display, if you have a different resolutio
 
 2. Mods with files included in this repo might not have proper settings for your system OR be fully up to date. They are simply what I personally use.
 
-3. This is also not optimized for any system other than my own. It is likely better to pick and choose what mods/quality levels you'd like to use.
+3. This is also not optimized for any system other than my own. It is likely better to pick and choose what mods/quality levels you'd like to use invidually.
 
 ## Mods/Files included in this repo
 - my own personal autoexec.cfg file (which you're allowed to tamper with in any way you see fit unlike any other file included in this repo)
