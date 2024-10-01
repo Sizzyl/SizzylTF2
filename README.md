@@ -26,10 +26,9 @@ Here are my launch options (for 1080p display, if you have a different resolutio
 - [SiFWolf's Better Kill Icons](https://gamebanana.com/mods/406361)
 - [newguy111's Spy Reload Fix](https://gamebanana.com/mods/196596)
 - [90FOV Fix for Medic](https://gamebanana.com/mods/285109)
+- [Pistol Enhancement Pack](https://gamebanana.com/mods/523205)
 
 ## Mods/Files with pending permission that I use
-
-- [Pistol Enhancement Pack](https://gamebanana.com/mods/523205)
 - [Paysus's Scout Animations + Lugermorph Fix](https://gamebanana.com/mods/522553)
 - [Paysus's Heavy Animations](https://gamebanana.com/mods/206261)
 
@@ -49,3 +48,4 @@ Here are my launch options (for 1080p display, if you have a different resolutio
 - Better Kill Icons - https://web.archive.org/web/20240930063140/https://gamebanana.com/mods/406361
 - Spy Reload - https://web.archive.org/web/20240930062950/https://gamebanana.com/mods/196596
 - 90FOV Medic - https://web.archive.org/web/20240930062455/https://gamebanana.com/mods/285109
+- Pistol Enhancement - https://web.archive.org/web/20241001230717/https://steamcommunity.com/id/feedbackfox and https://web.archive.org/web/20241001230827/https://gamebanana.com/mods/523205
