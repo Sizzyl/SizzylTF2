@@ -2,6 +2,11 @@
 This is everything I use in TF2 that isn't [my custom hud](https://github.com/Sizzyl/SizzylHUD) that I'm allowed to put here 
 (some mod creators don't allow people to redistribute their stuff and those mods will be listed further down in the READMe).
 
+## Install
+These files should be downloaded by putting ```git LFS clone https://github.com/Sizzyl/SizzylTF2``` in your console while being wherever you want the files to install.
+So for example if you wanted to download to your downloads folder simply type ```cd Downloads``` after opening windows terminal and then run the command.
+For these files to impact your game they need to be in your Team Fortress 2 folder however, so installing/dragging them into the folder you find by right clicking TF2 on steaem and hitting 'browse files' is the end goal.
+
 ## WARNINGS
 1. Things might not work without the exact launch options I use.
 Here are my launch options (for 1080p display, if you have a different resolution, change the w and h values):
