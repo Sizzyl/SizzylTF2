@@ -4,7 +4,9 @@ This is everything I use in TF2 that isn't [my custom hud](https://github.com/Si
 
 ## Install
 These files should be downloaded by putting ```git LFS clone https://github.com/Sizzyl/SizzylTF2``` in your console while being wherever you want the files to install.
+
 So for example if you wanted to download to your downloads folder simply type ```cd Downloads``` after opening windows terminal and then run the command.
+
 For these files to impact your game they need to be in your Team Fortress 2 folder however, so installing/dragging them into the folder you find by right clicking TF2 on steaem and hitting 'browse files' is the end goal.
 
 ## WARNINGS
