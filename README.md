@@ -40,7 +40,7 @@ Here are my launch options (for 1080p display, if you have a different resolutio
 - [Paysus's Heavy Animations](https://gamebanana.com/mods/206261)
 
 ## Mods/Files that I cannot include here
-- Pizza tower funky taunt noise sound effect as my killsound
+See "pending" area above.
 
 ### Wayback Machine backups of mod sites showing the licences I claimed:
 - Mastercomfig - https://web.archive.org/web/20240930064041/https://github.com/mastercomfig/comfig-app/blob/develop/LICENSE.md
