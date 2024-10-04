@@ -2,12 +2,12 @@
 This is everything I use in TF2 that isn't [my custom hud](https://github.com/Sizzyl/SizzylHUD) that I'm allowed to put here 
 (some mod creators don't allow people to redistribute their stuff and those mods will be listed further down in the READMe).
 
-## Install
+## Install / Use
 These files should be downloaded by putting ```git LFS clone https://github.com/Sizzyl/SizzylTF2``` in your console while being wherever you want the files to install.
 
 So for example if you wanted to download to your downloads folder simply type ```cd Downloads``` after opening windows terminal and then run the command.
 
-For these files to impact your game they need to be in your Team Fortress 2 folder however, so installing/dragging them into the folder you find by right clicking TF2 on steaem and hitting 'browse files' is the end goal.
+For these files to impact your game they need to be in your Team Fortress 2 folder however, so installing/dragging them into the folder you find by right clicking TF2 on steaem and hitting 'browse files' is the end goal. Once all the files are in place, you need to run the 'quickprecache_auto.bat' file foud in your general TF2 folder to actually be able to see the mods in-game.
 
 ## WARNINGS
 1. Things might not work without the exact launch options I use.
@@ -28,7 +28,6 @@ Here are my launch options (for 1080p display, if you have a different resolutio
 - [Kylul's Spy Animations](https://gamebanana.com/mods/307980)
 - [Kylul's Engineer Animations](https://gamebanana.com/mods/400704)
 - [Xilekai's Control Point Illumination Fix](https://gamebanana.com/mods/538185)
-- [Pilso's Modern Casual Preloader](https://gamebanana.com/wips/79779)
 - [Pilso's Classic-Style Animated Backgrounds Pack](https://gamebanana.com/wips/86687)
 - [SiFWolf's Better Kill Icons](https://gamebanana.com/mods/406361)
 - [newguy111's Spy Reload Fix](https://gamebanana.com/mods/196596)
@@ -36,11 +35,12 @@ Here are my launch options (for 1080p display, if you have a different resolutio
 - [Pistol Enhancement Pack](https://gamebanana.com/mods/523205)
 - [Paysus's Scout Animations + Lugermorph Fix](https://gamebanana.com/mods/522553)
 - [Paysus's Heavy Animations](https://gamebanana.com/mods/206261)
+- [QuickPrecache (EXPERIMENTAL)](https://gamebanana.com/mods/524713)
 
 ## Mods/Files that I cannot include here
 None.
 
-### Wayback Machine backups of mod sites showing the licences I claimed:
+### Wayback Machine / Imgur backups of mod sites showing the licenses I claimed:
 - Mastercomfig - https://web.archive.org/web/20240930064041/https://github.com/mastercomfig/comfig-app/blob/develop/LICENSE.md
 - Soldier Animations - https://web.archive.org/web/20240930064209/https://gamebanana.com/mods/206373
 - Pyro Animations - https://web.archive.org/web/20240930064218/https://gamebanana.com/mods/206311
@@ -56,3 +56,4 @@ None.
 - Pistol Enhancement - https://web.archive.org/web/20241001230717/https://steamcommunity.com/id/feedbackfox + https://web.archive.org/web/20241001230827/https://gamebanana.com/mods/523205
 - Paysus Heavy Animations - https://i.imgur.com/wKDdZwv.png
 - Paysus Scout Animations + Lugermorph - https://i.imgur.com/wKDdZwv.png + https://i.imgur.com/RJ5FS9i.png
+- QuickPrecache - https://web.archive.org/web/20241004042502/https://gamebanana.com/mods/524713
