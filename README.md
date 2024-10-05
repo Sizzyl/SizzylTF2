@@ -13,7 +13,7 @@ Once all the files are in place, you need to run the ```quickprecache_auto.bat``
 1. Things might not work without the exact launch options I use.
 Here are my launch options (for 1080p display, if you have a different resolution, change the w and h values):
 
-```-novid -nojoy -nosteamcontroller -particles 1 -precachefontchars -windowed -noborder -w 1920 -h 1080 +exec preloader.cfg```
+```-novid -nojoy -nosteamcontroller -particles 1 -precachefontchars -windowed -noborder -w 1920 -h 1080 +exec preloader```
 
 2. Mods with files included in this repo might not have proper settings for your system OR be fully up to date. They are simply what I personally use.
 
