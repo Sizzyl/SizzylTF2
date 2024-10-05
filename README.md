@@ -1,13 +1,13 @@
 # SizzylTF2
-This is everything I use in TF2 that isn't [my custom hud](https://github.com/Sizzyl/SizzylHUD) that I'm allowed to put here 
+This is everything I use in TF2 that isn't [my custom hud](https://github.com/Sizzyl/SizzylHUD) that I'm allowed to put here by mod creators
 (some mod creators don't allow people to redistribute their stuff and those mods will be listed further down in the READMe).
 
 ## Install / Use
-These files should be downloaded by putting ```git LFS clone https://github.com/Sizzyl/SizzylTF2``` in your console while being wherever you want the files to install.
+These files should be downloaded by going to the [Releases](https://github.com/Sizzyl/SizzylTF2/releases) tab and downloading the zip file attatched to the most recent/modern version.
 
-So for example if you wanted to download to your downloads folder simply type ```cd Downloads``` after opening windows terminal and then run the command.
+For these files to impact your game they need to be in your Team Fortress 2 folder however, so install/drag them into the folder you find by right clicking TF2 on steam and hitting 'browse files'. 
 
-For these files to impact your game they need to be in your Team Fortress 2 folder however, so installing/dragging them into the folder you find by right clicking TF2 on steaem and hitting 'browse files' is the end goal. Once all the files are in place, you need to run the 'quickprecache_auto.bat' file foud in your general TF2 folder to actually be able to see the mods in-game.
+Once all the files are in place, you need to run the ```quickprecache_auto.bat``` file foud in your general TF2 folder to actually be able to see the mods in-game.
 
 ## WARNINGS
 1. Things might not work without the exact launch options I use.
