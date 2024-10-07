@@ -36,6 +36,7 @@ Here are my launch options (for 1080p display, if you have a different resolutio
 - [Paysus's Scout Animations + Lugermorph Fix](https://gamebanana.com/mods/522553)
 - [Paysus's Heavy Animations](https://gamebanana.com/mods/206261)
 - [QuickPrecache (EXPERIMENTAL)](https://gamebanana.com/mods/524713)
+- [Main Menu Character Overhaul](https://gamebanana.com/mods/294786)
 
 ## Mods/Files that I cannot include here
 None.
@@ -57,3 +58,4 @@ None.
 - Paysus Heavy Animations - https://i.imgur.com/wKDdZwv.png
 - Paysus Scout Animations + Lugermorph - https://i.imgur.com/wKDdZwv.png + https://i.imgur.com/RJ5FS9i.png
 - QuickPrecache - https://web.archive.org/web/20241004042502/https://gamebanana.com/mods/524713
+- Main Menu Chars - https://web.archive.org/web/20241007012500/https://gamebanana.com/mods/294786
