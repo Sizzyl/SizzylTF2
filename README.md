@@ -34,10 +34,11 @@ if you don't want to play borderless windowed remove ```-windowed -noborder -w 1
 - [Paysus's Heavy Animations](https://gamebanana.com/mods/206261)
 - [QuickPrecache (EXPERIMENTAL)](https://gamebanana.com/mods/524713)
 
-
 ## Mods/Files that are too large to include in the repo itself but are in the zip in the 'releases' folder
 - [Main Menu Character Overhaul](https://gamebanana.com/mods/294786)
+- [Linux Patch for Main Menu Character Overhaul](https://gamebanana.com/mods/502532)
 - [Pilso's Classic-Style Animated Backgrounds Pack](https://gamebanana.com/wips/86687)
+- [SizzylHUD(only in the SizzylHUD marked ZIP)](https://github.com/Sizzyl/SizzylHUD)
 
 ### Wayback Machine / Imgur backups of mod sites showing the licenses I claimed (or pictures of the creators giving me permission to redistribute where required):
 - Mastercomfig - https://web.archive.org/web/20240930064041/https://github.com/mastercomfig/comfig-app/blob/develop/LICENSE.md
