@@ -6,7 +6,7 @@ Luckily as of writing this, I'm allowed to redistribute all the modss here, but 
 ## Install / Use
 #### Windows
 1. Download the most recent ZIP file for the version you want (with/without SizzylHUD) from [Releases](https://github.com/Sizzyl/SizzylTF2/releases).
-2. Download (Java 17 or higher)[https://adoptium.net/] and install it
+2. Download [Java 17 or higher](https://adoptium.net/) and install it
 2. Unzip the files from step 1 and drag the files inside of 'sizzyltf2' into your Team Fortress 2 root folder (the one you find when you hit 'browse files' in the properties tab on TF2.
 3. Doubleclick on quickprecache_auto.bat to run it (will only work with java installed and is needed for quickprecache).
 4. Right click TF2 on steam, go to launch options and paste ```+exec preloader```
